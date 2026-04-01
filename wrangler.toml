@@ -1,0 +1,7 @@
+name = "attila-reviews"
+compatibility_date = "2026-04-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "reviews-db"
+database_id = "PASTE_YOUR_DATABASE_ID_HERE"

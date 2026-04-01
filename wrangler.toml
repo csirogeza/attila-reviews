@@ -4,4 +4,4 @@ compatibility_date = "2026-04-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "reviews-db"
-database_id = "PASTE_YOUR_DATABASE_ID_HERE"
+database_id = "0ac66939-6008-4ff5-9e74-8f22b90c5689"

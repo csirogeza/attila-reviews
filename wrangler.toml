@@ -2,7 +2,7 @@ name = "delicate-feather-d2ec"
 compatibility_date = "2026-04-01"
 
 [assets]
-directory = "."
+directory = "./"
 
 [[d1_databases]]
 binding = "DB"

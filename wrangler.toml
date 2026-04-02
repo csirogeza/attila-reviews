@@ -1,6 +1,9 @@
 name = "delicate-feather-d2ec"
 compatibility_date = "2026-04-01"
 
+[assets]
+directory = "."
+
 [[d1_databases]]
 binding = "DB"
 database_name = "reviews-db"
